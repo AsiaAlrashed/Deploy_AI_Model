@@ -16,5 +16,6 @@ Weather Main (weather_main): General weather condition (e.g., clear, rain, snow)
 Weather Description (weather_description): Detailed weather description (e.g., light rain, heavy snow).
 Date and Time (date_time): Timestamp of the traffic volume record.
 
-
+A traffic forecasting model was developed and deployed using fastapi and docker
+Here is the link to the image on Docker Hub:
 https://hub.docker.com/repository/docker/asiaalrashed/ml_traffic_volume
